@@ -1,0 +1,5 @@
+torch>=2.0.0
+numpy
+tqdm
+pytest
+deepspeed>=0.10.0
